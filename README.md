@@ -7,3 +7,4 @@ Pov-Ray is a script-based raytracer ... Due to this script-based character, Pov-
 
 I will start show-casing this ability of Pov-Ray with structures obeying very simple rules, snail shells.
 
+![SnailShells](https://github.com/tjrfester/ModelingNature/assets/153545618/b5916252-6dee-472b-a76b-fb3273264d66)
