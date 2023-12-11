@@ -5,6 +5,6 @@ Here I will store Pov-Ray scripts for 3D-modeling. For an intro have a look at h
 
 Pov-Ray is a script-based raytracer ... Due to this script-based character, Pov-Ray is ideal for modeling natural structures based on certain sets of rules.
 
-01SnailShells: I will start show-casing this ability of Pov-Ray with structures obeying very simple rules, snail shells.
+01SnailShells: I will start show-casing this ability of Pov-Ray with structures obeying very simple rules, snail shells. An accompanying video is available at: https://www.youtube.com/watch?v=ASQYtnoF-IY&t=315s
 
 ![SnailShells](https://github.com/tjrfester/ModelingNature/assets/153545618/b5916252-6dee-472b-a76b-fb3273264d66)
