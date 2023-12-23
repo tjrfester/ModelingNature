@@ -12,7 +12,7 @@ Pov-Ray is a script-based raytracer ... Due to this script-based character, Pov-
 
 ![02Golden](https://github.com/tjrfester/ModelingNature/assets/153545618/f5fa5d0e-518f-42a9-9e97-9a6ef458f80a)
 
-03Erythrocyte: Erythrocytes can be modeled easily by applying planar, polar distributions with slight distortions and enlarged elements in the outer rings. 
+03Erythrocyte: Erythrocytes can be modeled easily by applying planar, polar distributions with slight distortions and enlarged elements in the outer rings. An accompanying video is available at: https://www.youtube.com/watch?v=lJ6s94Gj7w4&t=138s
 
 ![03Ery](https://github.com/tjrfester/ModelingNature/assets/153545618/c4d9c94b-a067-47e7-9dee-6a1f9e394d01)
 
@@ -20,7 +20,7 @@ Pov-Ray is a script-based raytracer ... Due to this script-based character, Pov-
 
 ![04Spherical](https://github.com/tjrfester/ModelingNature/assets/153545618/2b23c955-d777-4c89-b209-760126a88106)
 
-05CartesianBackgrounds: Apart from spherical distributions, there are cartesian distributions. They can be used to distribute things in the background. To make things appear somewhat natural, a certain amount of variability should be included. 
+05CartesianBackgrounds: Apart from spherical distributions, there are cartesian distributions. They can be used to distribute things in the background. To make things appear somewhat natural, a certain amount of variability should be included. An accompanying video is available at: https://www.youtube.com/watch?v=8yswzMS0wcM
 
 ![05Cartesiana](https://github.com/tjrfester/ModelingNature/assets/153545618/eeee48e1-5a54-43ba-ae36-b2ab6fd7fa1b)
 
