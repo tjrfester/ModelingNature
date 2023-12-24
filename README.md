@@ -1,8 +1,11 @@
 # ModelingNature - Basic structures
-Here I will store Pov-Ray scripts for 3D-modeling. For an intro have a look at https://www.youtube.com/watch?v=7wuzFq1qrKk&amp;t=1s. Here I start with an initial chapter about very basic rules.
+Here I will store Pov-Ray scripts for 3D-modeling. For an intro have a look at https://www.youtube.com/watch?v=7wuzFq1qrKk&amp;t=1s. Here I start with an initial chapter about very basic structures.
 ![00Titel](https://github.com/tjrfester/ModelingNature/assets/153545618/2b8987dc-c28b-40be-bc5e-1fb51f97db0c)
 
-Pov-Ray is a script-based raytracer ... Due to this script-based character, Pov-Ray is ideal for modeling natural structures based on certain sets of rules. In this starting chapter I will show some very basic sets of rules. 
+Pov-Ray is a script-based raytracer ... Due to this script-based character, Pov-Ray is ideal for modeling natural structures based on certain sets of rules. In this starting chapter I will show structures based on relatively simple mathematical operations.
+
+![Mathematics](https://github.com/tjrfester/ModelingNature/assets/153545618/097e2292-c4a4-437e-9db1-9d80df32bf72)
+
 
 01SnailShells: I will start show-casing this ability of Pov-Ray with structures obeying very simple rules, snail shells. An accompanying video is available at: https://www.youtube.com/watch?v=ASQYtnoF-IY&t=315s
 
